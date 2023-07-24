@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-Journal Papers
+{% include base_path %}
+
+#Journal Papers
 ======
 
 1. Ang Li, Jiawei Li, Yan Zhang, Dianqi Han, Tao Li, and Yanchao Zhang, “Secure UHF RFID
