@@ -40,8 +40,7 @@ Physical-layer message authentication for ZigBee networks,” USENIX Security Sy
 23), Anaheim, CA, August 2023. 
 2. Jiawei Xu, Ziqian Bi, Amit Singha, Tao Li, Yimin Chen and Yanchao Zhang, “mmLock: User
 Leaving Detection against Data Theft via High-Quality mmWave Radar Imaging,” IEEE International
-Conference on Computer Communictions and Networks (ICCCN’23), Honolulu, HI, July
-2023. 
+Conference on Computer Communictions and Networks (ICCCN’23), Honolulu, HI, July 2023. 
 3. Ang Li, Jiawei Li, Dianqi Han, Yan Zhang, Tao Li, and Yanchao Zhang, “WearRF-CLA: Continuous
 location authentication with wrist wearables and UHF RFID,” ACM ASIA Conference
 on Computer and Communications Security (AsiaCCS’22), Nagasaki, Japan, May 2022. 
