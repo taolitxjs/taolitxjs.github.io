@@ -36,7 +36,7 @@ Conference Papers
 ======
 
 
-1. Amit Singha, Ziqian Bi, Tao Li, Yimin Chen, and Yanchao Zhang, "Securing Contrastive mmWave-based Human Activity Recognition against Adversarial Label Flipping", ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec'24), Seoul, Korea, May 2024.
+1. Amit Singha, Ziqian Bi, Tao Li, Yimin Chen, and Yanchao Zhang, "Securing Contrastive mmWave-based Human Activity Recognition against Adversarial Label Flipping," ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec'24), Seoul, Korea, May 2024.
 1. Ang Li, Jiawei Li, Dianqi Han, Yan Zhang, Tao Li, Ting Zhu, and Yanchao Zhang, “PhyAuth:
 Physical-layer message authentication for ZigBee networks,” USENIX Security Symposium (Security’
 23), Anaheim, CA, August 2023. 
