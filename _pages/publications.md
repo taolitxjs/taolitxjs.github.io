@@ -11,22 +11,22 @@ Journal Papers
 ======
 
 1. Ang Li, Jiawei Li, Yan Zhang, Dianqi Han, Tao Li, and Yanchao Zhang, “Secure UHF RFID
-Authentication with Smart Devices”, IEEE Transactions on Wireless Communications, Accepted,
+Authentication with Smart Devices,” IEEE Transactions on Wireless Communications, Accepted,
 December 2022. 
 1. Yan Zhang, Ang Li, Jiawei Li, Dianqi Han, Tao Li, Rui Zhang, and Yanchao Zhang, “SpecKriging:
-GNN-based Secure Cooperative Spectrum Sensing”, IEEE Transactions on Wireless Communications,
+GNN-based Secure Cooperative Spectrum Sensing,” IEEE Transactions on Wireless Communications,
 vol. 21, no. 11, pp. 9936 - 9946, November 2022. 
 1. Yan Zhang, Dianqi Han, Ang Li, Jiawei Li, Tao Li, and Yanchao Zhang, “SmartMagnet:
-Proximity-Based Access Control for IoT Devices with Smartphones and Magnets”, IEEE Transactions
+Proximity-Based Access Control for IoT Devices with Smartphones and Magnets,” IEEE Transactions
 on Mobile Computing, Accepted, January 2022. 
 1. Yan Zhang, Dianqi Han, Ang Li, Lili Zhang, Tao Li, and Yanchao Zhang, “MagAuth: Secure
-and Usable Two-Factor Authentication with Magnetic Wrist Wearables”, IEEE Transactions on
+and Usable Two-Factor Authentication with Magnetic Wrist Wearables,” IEEE Transactions on
 Mobile Computing, vol. 22, no. 1, pp. 311 - 327, April 2021. 
 1. Dianqi Han, Ang Li, Lili Zhang, Yan Zhang, Jiawei Li, Tao Li, Ting Zhu, and Yanchao Zhang,
-“Deep Learning-Guided Jamming for Cross-Technology Wireless Networks: Attack and Defense”,
+“Deep Learning-Guided Jamming for Cross-Technology Wireless Networks: Attack and Defense,”
 IEEE/ACM Transactions on Networking, vol. 29, no. 5, pp. 1922 - 1932, May 2021.
 1. Dianqi Han, Ang Li, Tao Li, Lili Zhang, Yan Zhang, Jiawei Li, Rui Zhang, and Yanchao Zhang,
-“(In)secure Acoustic Mobile Authentication”, IEEE Transactions on Mobile Computing, vol. 21,
+“(In)secure Acoustic Mobile Authentication,” IEEE Transactions on Mobile Computing, vol. 21,
 no. 9, pp. 3193 - 3207, September 2022. 
 1. Tao Li, Dianqi Han, Yimin Chen, Rui Zhang, and Yanchao Zhang, “IndoorWaze: a crowdsourcingbased
 context-aware indoor navigation system,” IEEE Transactions on Wireless Communications,
@@ -38,8 +38,7 @@ Conference Papers
 
 1. Amit Singha, Ziqian Bi, Tao Li, Yimin Chen, and Yanchao Zhang, "Securing Contrastive mmWave-based Human Activity Recognition against Adversarial Label Flipping," ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec'24), Seoul, Korea, May 2024.
 1. Ang Li, Jiawei Li, Dianqi Han, Yan Zhang, Tao Li, Ting Zhu, and Yanchao Zhang, “PhyAuth:
-Physical-layer message authentication for ZigBee networks,” USENIX Security Symposium (Security’
-23), Anaheim, CA, August 2023. 
+Physical-layer message authentication for ZigBee networks,” USENIX Security Symposium (Security’23), Anaheim, CA, August 2023. 
 2. Jiawei Xu, Ziqian Bi, Amit Singha, Tao Li, Yimin Chen and Yanchao Zhang, “mmLock: User
 Leaving Detection against Data Theft via High-Quality mmWave Radar Imaging,” IEEE International
 Conference on Computer Communictions and Networks (ICCCN’23), Honolulu, HI, July 2023. 
