@@ -35,7 +35,7 @@ vol. 19, no. 8, pp. 5461 - 5472, May 2020.
 Conference Papers
 ======
 
-
+1. Dianiqi Han, Ang Li, Jiawei Li, Yan Zhang, Tao Li, and Yanchao Zhang, “WaveKey: Secure mobile ad hoc access to RFID-protected systems,” IEEE International Conference on Distributed Computing Systems (ICDCS'24), Jersey City, New Jersey, USA, July 2024.
 1. Amit Singha, Ziqian Bi, Tao Li, Yimin Chen, and Yanchao Zhang, "Securing Contrastive mmWave-based Human Activity Recognition against Adversarial Label Flipping," ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec'24), Seoul, Korea, May 2024.
 1. Ang Li, Jiawei Li, Dianqi Han, Yan Zhang, Tao Li, Ting Zhu, and Yanchao Zhang, “PhyAuth:
 Physical-layer message authentication for ZigBee networks,” USENIX Security Symposium (Security’23), Anaheim, CA, August 2023. 
