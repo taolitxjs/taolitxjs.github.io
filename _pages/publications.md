@@ -34,6 +34,8 @@ vol. 19, no. 8, pp. 5461 - 5472, May 2020.
 
 Conference Papers
 ======
+1. Yan Zhang, Tao Li, and Yanchao Zhang, "GNN-SML: Graphic Neural Network-Based Spectrum Misuser Localization,", IEEE International Conference on Computer
+Communications (INFOCOM’25), London, United Kingdom, May 2025.
 1. Xingyu Lyu, Shixiong Li, Ning Wang, Tao Li, Danjue Chen, and Yimin Chen, “Adversarial Attacks on Federated Learning Revisited: a Client-Selection Perspective,” IEEE Conference on Communications and Network Security (CNS’24), Taipei, Taiwan, September 2024.
 1. Dianiqi Han, Ang Li, Jiawei Li, Yan Zhang, Tao Li, and Yanchao Zhang, “WaveKey: Secure mobile ad hoc access to RFID-protected systems,” IEEE International Conference on Distributed Computing Systems (ICDCS'24), Jersey City, New Jersey, USA, July 2024.
 1. Amit Singha, Ziqian Bi, Tao Li, Yimin Chen, and Yanchao Zhang, "Securing Contrastive mmWave-based Human Activity Recognition against Adversarial Label Flipping," ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec'24), Seoul, Korea, May 2024.
