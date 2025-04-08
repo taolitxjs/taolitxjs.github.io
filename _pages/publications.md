@@ -34,6 +34,8 @@ vol. 19, no. 8, pp. 5461 - 5472, May 2020.
 
 Conference Papers
 ======
+1. Ziqian Bi, Amit Singha, Hongfei Xue, Tao Li, Yimin Chen, and Yanchao Zhang, "Physical Backdoor Attacks against mmWave-based Human Activity Recognition," IEEE International Conference on Distributed Computing Systems (ICDCS'25), Glasgow, UK, July 2025.
+1. Shixiong Li, Xingyu Lyu, Ning Wang, Tao Li, Danjue Chen, and Yimin Chen, "Beyond Uniformity: Robust Backdoor Attacks on Deep Neural Networks with Trigger Selection," the Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD'25), Sydney, Australia, June 2025
 1. Yan Zhang, Tao Li, and Yanchao Zhang, "GNN-SML: Graphic Neural Network-Based Spectrum Misuser Localization," IEEE International Conference on Computer
 Communications (INFOCOM’25), London, United Kingdom, May 2025.
 1. Xingyu Lyu, Shixiong Li, Ning Wang, Tao Li, Danjue Chen, and Yimin Chen, “Adversarial Attacks on Federated Learning Revisited: a Client-Selection Perspective,” IEEE Conference on Communications and Network Security (CNS’24), Taipei, Taiwan, September 2024.
