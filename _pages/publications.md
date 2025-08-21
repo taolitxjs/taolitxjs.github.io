@@ -11,8 +11,7 @@ Journal Papers
 ======
 
 1. Ang Li, Jiawei Li, Yan Zhang, Dianqi Han, Tao Li, and Yanchao Zhang, “Secure UHF RFID
-Authentication with Smart Devices,” IEEE Transactions on Wireless Communications, Accepted,
-December 2022. 
+Authentication with Smart Devices,” IEEE Transactions on Wireless Communications, vol. 22, no. 7, July 2023. 
 1. Yan Zhang, Ang Li, Jiawei Li, Dianqi Han, Tao Li, Rui Zhang, and Yanchao Zhang, “SpecKriging:
 GNN-based Secure Cooperative Spectrum Sensing,” IEEE Transactions on Wireless Communications,
 vol. 21, no. 11, pp. 9936 - 9946, November 2022. 
@@ -34,6 +33,7 @@ vol. 19, no. 8, pp. 5461 - 5472, May 2020.
 
 Conference Papers
 ======
+1. Abdualrhman Almeajel, Yan Zhang, Tao Li, and Yanchao Zhang, "mmRhythm: Secure and Usable User Authentication for IoT Devices Based on Hand-Tapping Patterns," IEEE Military Communications Conference, Los Angeles, CA, October 2025.
 1. Ziqian Bi, Amit Singha, Hongfei Xue, Tao Li, Yimin Chen, and Yanchao Zhang, "Physical Backdoor Attacks against mmWave-based Human Activity Recognition," IEEE International Conference on Distributed Computing Systems (ICDCS'25), Glasgow, UK, July 2025.
 1. Shixiong Li, Xingyu Lyu, Ning Wang, Tao Li, Danjue Chen, and Yimin Chen, "Beyond Uniformity: Robust Backdoor Attacks on Deep Neural Networks with Trigger Selection," the Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD'25), Sydney, Australia, June 2025
 1. Yan Zhang, Tao Li, and Yanchao Zhang, "GNN-SML: Graphic Neural Network-Based Spectrum Misuser Localization," IEEE International Conference on Computer
