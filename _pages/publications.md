@@ -14,19 +14,19 @@ Journal Papers
 Authentication with Smart Devices,” IEEE Transactions on Wireless Communications, vol. 22, no. 7, July 2023.
 1. Yan Zhang, Dianqi Han, Ang Li, Jiawei Li, Tao Li, and Yanchao Zhang, “SmartMagnet:
 Proximity-Based Access Control for IoT Devices with Smartphones and Magnets,” IEEE Transactions
-on Mobile Computing, vol. 22, no. 7, July 2023. 
-1. Yan Zhang, Ang Li, Jiawei Li, Dianqi Han, Tao Li, Rui Zhang, and Yanchao Zhang, “SpecKriging:
-GNN-based Secure Cooperative Spectrum Sensing,” IEEE Transactions on Wireless Communications,
-vol. 21, no. 11, pp. 9936 - 9946, November 2022. 
+on Mobile Computing, vol. 22, no. 7, July 2023.
 1. Yan Zhang, Dianqi Han, Ang Li, Lili Zhang, Tao Li, and Yanchao Zhang, “MagAuth: Secure
 and Usable Two-Factor Authentication with Magnetic Wrist Wearables,” IEEE Transactions on
-Mobile Computing, vol. 22, no. 1, pp. 311 - 327, April 2021. 
-1. Dianqi Han, Ang Li, Lili Zhang, Yan Zhang, Jiawei Li, Tao Li, Ting Zhu, and Yanchao Zhang,
-“Deep Learning-Guided Jamming for Cross-Technology Wireless Networks: Attack and Defense,”
-IEEE/ACM Transactions on Networking, vol. 29, no. 5, pp. 1922 - 1932, May 2021.
+Mobile Computing, vol. 22, no. 1, pp. 311 - 327, January 2023. 
+1. Yan Zhang, Ang Li, Jiawei Li, Dianqi Han, Tao Li, Rui Zhang, and Yanchao Zhang, “SpecKriging:
+GNN-based Secure Cooperative Spectrum Sensing,” IEEE Transactions on Wireless Communications,
+vol. 21, no. 11, pp. 9936 - 9946, November 2022.
 1. Dianqi Han, Ang Li, Tao Li, Lili Zhang, Yan Zhang, Jiawei Li, Rui Zhang, and Yanchao Zhang,
 “(In)secure Acoustic Mobile Authentication,” IEEE Transactions on Mobile Computing, vol. 21,
-no. 9, pp. 3193 - 3207, September 2022. 
+no. 9, pp. 3193 - 3207, September 2022.
+1. Dianqi Han, Ang Li, Lili Zhang, Yan Zhang, Jiawei Li, Tao Li, Ting Zhu, and Yanchao Zhang,
+“Deep Learning-Guided Jamming for Cross-Technology Wireless Networks: Attack and Defense,”
+IEEE/ACM Transactions on Networking, vol. 29, no. 5, pp. 1922 - 1932, October 2021.
 1. Tao Li, Dianqi Han, Yimin Chen, Rui Zhang, and Yanchao Zhang, “IndoorWaze: a crowdsourcingbased
 context-aware indoor navigation system,” IEEE Transactions on Wireless Communications,
 vol. 19, no. 8, pp. 5461 - 5472, August 2020. 
