@@ -29,7 +29,7 @@ IEEE/ACM Transactions on Networking, vol. 29, no. 5, pp. 1922 - 1932, May 2021.
 no. 9, pp. 3193 - 3207, September 2022. 
 1. Tao Li, Dianqi Han, Yimin Chen, Rui Zhang, and Yanchao Zhang, “IndoorWaze: a crowdsourcingbased
 context-aware indoor navigation system,” IEEE Transactions on Wireless Communications,
-vol. 19, no. 8, pp. 5461 - 5472, May 2020. 
+vol. 19, no. 8, pp. 5461 - 5472, August 2020. 
 
 Conference Papers
 ======
