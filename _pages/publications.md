@@ -33,6 +33,8 @@ vol. 19, no. 8, pp. 5461 - 5472, August 2020.
 
 Conference Papers
 ======
+1. Jiawei Li, Yan Zhang, Dianqi Han, Ang Li, Tao Li, and Yanchao Zhang, ``TagStroke: Stealthy Keystroke Inference via Passive RFID Arrays Beneath Keyboards," IEEE International Conference on Computer Communications (INFOCOM'26), Tokyo, Japan, May 2026.
+1. Xingyu Lyu, Ning Wang, Yang Xiao, Shixiong Li, Tao Li, Danjue Chen, and Yimin Chen, ``Buffer is All You Need: Defending Federated Learning against Backdoor Attacks under Non-iids via Buffering," IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom'25), Guiyang, China, November 2025.
 1. Abdualrhman Almeajel, Yan Zhang, Tao Li, and Yanchao Zhang, "mmRhythm: Secure and Usable User Authentication for IoT Devices Based on Hand-Tapping Patterns," IEEE Military Communications Conference, Los Angeles, CA, October 2025.
 1. Ziqian Bi, Amit Singha, Hongfei Xue, Tao Li, Yimin Chen, and Yanchao Zhang, "Physical Backdoor Attacks against mmWave-based Human Activity Recognition," IEEE International Conference on Distributed Computing Systems (ICDCS'25), Glasgow, UK, July 2025.
 1. Shixiong Li, Xingyu Lyu, Ning Wang, Tao Li, Danjue Chen, and Yimin Chen, "Beyond Uniformity: Robust Backdoor Attacks on Deep Neural Networks with Trigger Selection," the Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD'25), Sydney, Australia, June 2025
