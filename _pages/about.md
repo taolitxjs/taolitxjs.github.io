@@ -15,7 +15,7 @@ I am currently an Assistant Professor in the School of Applied and Creative Comp
 `Office: ET 201, 799 W. Michigan Street, Indianapolis, IN, 46202`
 
 
-*I am currently seeking highly self-motivated Ph.D. students to join my research projects in the fields of security, machine learning, and mobile sensing. Before reaching out, please review the [application notes](https://github.com/taolitxjs/taolitxjs.github.io/edit/master/_pages/notes.md).*
+*I am currently seeking highly self-motivated Ph.D. students to join my research projects in the fields of security, machine learning, and mobile sensing. Before reaching out, please review the [application notes](/notes/).*
 
 
 
