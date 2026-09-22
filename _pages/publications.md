@@ -9,7 +9,7 @@ author_profile: true
 
 Journal Papers
 ======
-
+1. Hossein Ahmadi, Yan Zhang, Ang Li, Tao Li, and Yanchao Zhang, "BadAMC: A model-agnostic digital backdoor attack for automatic modulation classification in crowdsourced platforms," IEEE Transactions on Networking (TON), vol. 34, pp. 5006–5018, April 2026.
 1. Ang Li, Jiawei Li, Yan Zhang, Dianqi Han, Tao Li, and Yanchao Zhang, “Secure UHF RFID
 Authentication with Smart Devices,” IEEE Transactions on Wireless Communications, vol. 22, no. 7, July 2023.
 1. Yan Zhang, Dianqi Han, Ang Li, Jiawei Li, Tao Li, and Yanchao Zhang, “SmartMagnet:
@@ -33,6 +33,7 @@ vol. 19, no. 8, pp. 5461 - 5472, August 2020.
 
 Conference Papers
 ======
+1. Ziqian Bi, Amit Singha, Huangpu Chen and Tao Li, Yimin Chen, Yanchao Zhang, "I Know What You're Watching: 360∘ Video Genre Inference Using Motion Sensors on VR Headsets", IEEE Conference on Communications and Network Security (CNS'26), Newark, Delaware, September 2026.
 1. Jiawei Li, Yan Zhang, Dianqi Han, Ang Li, Tao Li, and Yanchao Zhang, ``TagStroke: Stealthy Keystroke Inference via Passive RFID Arrays Beneath Keyboards," IEEE International Conference on Computer Communications (INFOCOM'26), Tokyo, Japan, May 2026.
 1. Xingyu Lyu, Ning Wang, Yang Xiao, Shixiong Li, Tao Li, Danjue Chen, and Yimin Chen, ``Buffer is All You Need: Defending Federated Learning against Backdoor Attacks under Non-iids via Buffering," IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom'25), Guiyang, China, November 2025.
 1. Abdualrhman Almeajel, Yan Zhang, Tao Li, and Yanchao Zhang, "mmRhythm: Secure and Usable User Authentication for IoT Devices Based on Hand-Tapping Patterns," IEEE Military Communications Conference, Los Angeles, CA, October 2025.
