@@ -9,7 +9,7 @@ author_profile: true
 
 Journal Papers
 ======
-1. Hossein Ahmadi, Yan Zhang, Ang Li, Tao Li, and Yanchao Zhang, "BadAMC: A model-agnostic digital backdoor attack for automatic modulation classification in crowdsourced platforms," IEEE Transactions on Networking (TON), vol. 34, pp. 5006–5018, April 2026.
+1. Hossein Ahmadi, Yan Zhang, Ang Li, Tao Li, and Yanchao Zhang, "BadAMC: A model-agnostic digital backdoor attack for automatic modulation classification in crowdsourced platforms," IEEE Transactions on Networking, vol. 34, pp. 5006–5018, April 2026.
 1. Ang Li, Jiawei Li, Yan Zhang, Dianqi Han, Tao Li, and Yanchao Zhang, “Secure UHF RFID
 Authentication with Smart Devices,” IEEE Transactions on Wireless Communications, vol. 22, no. 7, July 2023.
 1. Yan Zhang, Dianqi Han, Ang Li, Jiawei Li, Tao Li, and Yanchao Zhang, “SmartMagnet:
