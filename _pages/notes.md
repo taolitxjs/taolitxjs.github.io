@@ -11,7 +11,7 @@ I am currently seeking highly self-motivated Ph.D. students to join my research 
 
 Due to the high volume of emails, I may NOT respond to generic inquiries lacking specific details.
 
-I will respond if (1) I find your background relevant to my research, (2) your application materials are complete, and (3) you meet Purdue’s English proficiency requirements for graduate students.
+I will respond if (1) I find your background relevant to my research, (2) your materials are complete, and (3) you meet Purdue’s English proficiency requirements for graduate students.
 
 
 
